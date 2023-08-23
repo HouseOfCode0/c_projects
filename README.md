@@ -1,4 +1,4 @@
-# CS50 Projects Repository
+# Projects Repository
 
 Welcome to the CS50 Projects repository! This repository contains various programming projects completed as part of the CS50 course. Each project focuses on different aspects of computer science and programming. Below is a brief overview of each project along with links to their respective files.
 
